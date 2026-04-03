@@ -1,4 +1,6 @@
+--------------------------------------------------------
 👨‍💻 Abhimanyu Verma – DevOps / Site Reliability Engineer
+--------------------------------------------------------
 
 📍 New Delhi, India
 📧 vermaabhimanyu92@gmail.com
@@ -8,7 +10,7 @@
 
 🚀 Professional Summary
 
-Results-driven DevOps / Site Reliability Engineer with 8+ years of experience in building, automating, and optimizing mission-critical cloud infrastructure and deployment pipelines.
+Results-driven DevOps/Site Reliability Engineer with 8+ years of experience in building, automating, and optimizing mission-critical cloud infrastructure and deployment pipelines.
 
 Expertise in CI/CD, Kubernetes, AWS, Infrastructure as Code (IaC), and Observability, with a strong focus on improving system reliability, scalability, and performance.
 
