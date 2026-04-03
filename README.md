@@ -43,6 +43,7 @@ AWS RDS
 Git, GitHub
 Jira, ServiceNow
 SonarQube, Trivy, OWASP
+
 💼 Professional Experience
 🔹 DevOps Engineer – Synechron (Apr 2025 – Present)
 Designed scalable 3-tier architecture on AWS EKS
@@ -73,6 +74,8 @@ Automated deployments using Jenkins & Ansible
 Deployed Java applications (WAR/EAR/JAR)
 Managed WebLogic & WebSphere servers
 Supported critical production environments
+
+
 📂 Key Projects
 🏦 Macquarie Bank (2025 – Present)
 Built AWS infra using Terraform
@@ -80,9 +83,12 @@ Implemented remote state management with S3 & DynamoDB
 📡 Verizon (2023 – 2025)
 Implemented Observability Maturity Model
 Improved application monitoring using New Relic & Catchpoint
+
 🎓 Education
 🎓 MCA – Dr. APJ Abdul Kalam Technical University (2016)
 🎓 BCA – Veer Bahadur Singh Purvanchal University (2012)
+
+
 📈 Key Achievements
 ⏱️ Reduced deployment time by 60%
 ⚡ Improved infra provisioning by 70%
