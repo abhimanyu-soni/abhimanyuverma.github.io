@@ -100,6 +100,7 @@ Improved application monitoring using New Relic & Catchpoint
 
 
 📈 Key Achievements
+
 ⏱️ Reduced deployment time by 60%
 ⚡ Improved infra provisioning by 70%
 🔍 Enhanced observability and monitoring maturity
